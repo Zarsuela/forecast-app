@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "name": "Handmade Marble Towels",
-      "inventory": 85,
-      "avgSales": 18,
+      "name": "Test Low Stock   ",
+      "inventory": 3,
+      "avgSales": 10,
       "leadTime": 2
     },
     {
